@@ -4,10 +4,10 @@ A data structure for market information on a sustainable economy such as spanned
 
 ## Important files
 
-MarketCommons_Database
+MarketCommons_Database  
 This spreadsheet file contains the table templates for different records; please make sure to look into this file first
 
-MarketCommons_Functional_Specification
+MarketCommons_Functional_Specification  
 This file contains some text describing the requirements for the records
 
 ## License
