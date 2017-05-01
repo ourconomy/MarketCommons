@@ -11,7 +11,7 @@ If you are interested in this project, please let me know. I write this function
 _MarketCommons_Database_v0.0xx.ods_  
 This spreadsheet file contains the table templates for different records; please make sure to look into this file when you reach the technical sections of the text file below.
 
-_MarketCommons_Functional_Specification_v0.0xx.odt or .pdf_
+_MarketCommons_Functional_Specification_v0.0xx.odt or .pdf_  
 This file contains the text describing the rationale of the system and the requirements for the records of the database
 
 ## License
