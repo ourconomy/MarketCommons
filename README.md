@@ -18,5 +18,5 @@ This file contains the text describing the rationale of the system and the requi
 
 This project is licensed under the AGPLv3 license
 
-Copyright: Oliver Sendelbach 2017
+Copyright: Oliver Sendelbach 2017-2018
 
